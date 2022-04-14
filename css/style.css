@@ -75,12 +75,16 @@ a
 
 .payment
 {
-    background-color: hsl(245, 75%, 52%);
+    background-color: rgba(56, 41, 224,1);
     padding: 1rem 0;
     width: 70%;
     margin: 1rem auto;
 
     border-radius: 12px;
+}
+.payment:hover
+{
+background-color:rgba(56, 41, 224,.8);
 }
 
 #proceed
@@ -88,11 +92,26 @@ a
     color: aliceblue;
     font-weight: 700;
 }
-.cancel
+.cancel a
 {
     padding: 0.5rem;
     font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
+.cancel:hover
+{
+    opacity: 1;
 }
 p{
     opacity: 0.7;
+}
+.change
+{
+    font-weight: 700;
+}
+.change:hover
+{
+    text-decoration: none;
+    opacity: .8;
 }

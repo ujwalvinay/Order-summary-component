@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ujwalvinay/Order-summary-component](https://github.com/ujwalvinay/Order-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ujwalvinay.github.io/Order-summary-component/](https://ujwalvinay.github.io/Order-summary-component/)
 
 ### Built with
 
